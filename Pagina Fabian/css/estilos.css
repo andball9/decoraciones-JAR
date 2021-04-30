@@ -29,6 +29,16 @@
     overflow: auto;
     
 }
+.imgcontac{
+    background: linear-gradient(to top, rgb(177, 177, 177), white) and linear-gradient(to bottom, rgb(177, 177, 177), white);
+
+    
+}
+.imgcontac2{
+    
+    background: linear-gradient(to top, rgb(177, 177, 177), white);
+    
+}
 .blanco{
     color: white;
 }
@@ -41,4 +51,23 @@
 	
 	height: 275px;
 	
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+	background-image: url("../img/textura.jpg"); 
+	background-color:#643B28;
+	
+}
+.opacidad{
+	opacity: 0.4 black;
+}
+.bg-footer{
+    background-image: url(../img/fondo-footer.jpg);
+    opacity: 0.8;
+    background-size: 100vw;
+    background-repeat: no-repeat;
+    overflow: auto;
+}
+.wp-logo{
+    width: 40%;
+    height: 40%;
 }
