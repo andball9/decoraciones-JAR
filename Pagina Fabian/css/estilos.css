@@ -35,6 +35,11 @@
     background: linear-gradient(to top, rgb(177, 177, 177), white);
     
 }
+.imgcontac{
+    
+    background: linear-gradient(to top, rgb(177, 177, 177), white);
+    
+}
 .blanco{
     color: white;
 }
@@ -62,8 +67,21 @@
     background-size: 100vw;
     background-repeat: no-repeat;
     overflow: auto;
+    max-width: 100%;
 }
 .wp-logo{
     width: 40%;
     height: 40%;
+}
+.img-r{
+    max-width: 100%;
+}
+.img-r-logo{
+    max-width: 80%;
+}
+
+.container-footer{
+    width: 100%;
+} .separador{
+    background-color: rgb(100, 97, 97); height: 10px;
 }
